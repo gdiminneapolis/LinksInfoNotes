@@ -15,3 +15,12 @@ ask questions, get advice, and just general chitchat.
 
 
 (More coming soon.)
+
+
+## Slides from June 3, 2017 Class
+
+- Instructor: Michelle Schulp @marktimemedia p.much everywhere
+
+- Slides: https://www.evernote.com/shard/s100/sh/dd64701c-d9d8-4864-8597-15e1780ec61a/c71a3b8a45b90b2f
+
+
