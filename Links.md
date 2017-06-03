@@ -23,8 +23,6 @@
 
   Current WordPress News. The Torque News Core is a group of WordPress experts that are part of the WordPress community.
 
-* Blog - ChrisLema.com:     http://chrislema.com/blog/
-
 * Get DesktopServer and save time! • ServerPress, LLC.:     https://serverpress.com/get-desktopserver/
 
   DesktopServer is a tool that is proven to save you time testing, developing, managing, and creating fully functional website servers on your own computer.
