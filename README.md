@@ -11,7 +11,7 @@ GDIMpls uses Slack to communicate before, during, and after classes,
 and to provide a place for students and members to discuss problems,
 ask questions, get advice, and just general chitchat.
 
-* [Links] holds various links given out in class for refernce.
+* [Links](Links.md) holds various links given out in class for refernce.
 
 
 (More coming soon.)
