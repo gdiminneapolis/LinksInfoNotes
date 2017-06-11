@@ -1,39 +1,66 @@
+# Links, Information and Notes from GDI Minneapolis Classes and Slack channels
 
-# WordPress Class Links and Notes
+We've been using our Slack team channels to share information, links,
+and other interesting things during our classes, and to share other
+things any time.
 
-Providing a more permanent place to keep notes than to keep pinning items to
-Slack and evenutally losing them.
+We've lost some of these sharings over time because of Slack's
+limitation on the number of messages we can have.
 
-## Slides 
+So, in the spirit of keeping our lore handy, provide a space for more
+collaboration, and general learning, this repository will attempt to
+keep that info from floating away.
 
-### from June 3, 2017 Class
+## Structure
 
-- Instructor: Michelle Schulp @marktimemedia p.much everywhere
+The structure is really pretty simple. Each topic area is matched to a
+Slack channel, and the topic area is a directory.
 
-- Slides: https://www.evernote.com/shard/s100/sh/dd64701c-d9d8-4864-8597-15e1780ec61a/c71a3b8a45b90b2f
-
-
-## Slack
-
-GDIMpls uses Slack to communicate before, during, and after classes,
-and to provide a place for students and members to discuss problems,
-ask questions, get advice, and just general chitchat.
-
-## Files
-
-* [Links](Links.md) holds various links given out in class for refernce.
-
-(More coming soon.)
+In each directory is the main README.md file, and there can be other
+files if the information needs to be broken up somehow. (It's no fun
+to try to read through and 80-page README any more than scrolling back
+through Slack channels.)
 
 ## Contributing
 
-Yes!! YOU TOO CAN ADD TO THIS!!
+You all should feel invited and highly encouraged to participate in
+this venture. There are many ways you can do that:
 
-If you have links you'd like to share, put them into the slack channel `#wordpress-classes` and they'll get added here (eventually, it's a human process).
+1. Share with others
 
-Also, you can create issues at the link above, say anything you'd like to see added here, or ask questions.
+2. Ask a question, engage in a discussion, suggest a link or category
+   or some other change in
+   the
+   [issues](https://github.com/gdiminneapolis/LinksInfoNotes/issues)
+   section of the repo.
 
-If you're game, you can fork this repo, make the changes you would like, and submit a Pull Request back to us.
+3. Fork the repo, create a branch and make changes, additions,
+   corrections, deletions, and create
+   a
+   [Pull Request](https://github.com/gdiminneapolis/LinksInfoNotes/pulls)
 
-Even more goodness! You can write a wiki page, it's open to everyone.
+4. Write an article in the
+   project
+   [wiki](https://github.com/gdiminneapolis/LinksInfoNotes/wiki)
 
+5. Proof-read the information, test/check links for validity, point
+   out problems.
+
+## License
+
+This work is licensed as [Creative Commons BY-NC-SA
+(Attribution-NonCommercial-ShareAlike)](https://creativecommons.org/licenses/by-nc-sa/4.0/) work.
+
+## Code of Conduct
+
+This project follows
+the
+[Contributor Covenant 1.4.0](http://contributor-covenant.org/version/1/4/)
+
+
+## Other Repos Containing Useful Information
+
+These might eventually be consolidated into this repo, but for now:
+
+* A Collection of Cheat Sheets: <https://github.com/gdiminneapolis/cheat-sheet-collection>
+* Starting up Projects: <https://github.com/gdiminneapolis/gdi-starting-up>
