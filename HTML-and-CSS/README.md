@@ -23,6 +23,8 @@ some other classes on allied technologies.
 
 * Visual guide and reference to CSS: <http://cssreference.io/>
 
+* The 30 CSS Selectors you Must Memorize: <http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048>
+
 ### CSS Flexbox
 
 * A Complete Guide to
