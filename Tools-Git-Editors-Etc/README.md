@@ -2,7 +2,7 @@
 
 ## Git
 
-* **Falling In Love With Git** slides: <https://gdiminneapolis.github.io/falling-in-love-with-git> [github repo](https://github.com/gdiminneapolis/falling-in-love-with-git)
+* **Falling In Love With Git** slides: <https://gdiminneapolis.github.io/falling-in-love-with-git> [[github repo](https://github.com/gdiminneapolis/falling-in-love-with-git)]
 * Many resources given here: <https://github.com/gdiminneapolis/falling-in-love-with-git/blob/master/resources.md>
 
 ## Editors
