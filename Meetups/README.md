@@ -6,6 +6,6 @@
 
 ### Speakers:
 
-* Tamara Temple: "Command Line Aliases" [talk repo](https://github.com/tamouse/Talk-Command-Line-Aliases)
+* Tamara Temple: "Command Line Aliases" <small>[[talk repo](https://github.com/tamouse/Talk-Command-Line-Aliases)]</small>
 * Alexis Williams: "Agile v. Scrum"
 * Amy Gebhardt: "Speaking at Events"
