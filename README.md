@@ -64,3 +64,8 @@ These might eventually be consolidated into this repo, but for now:
 
 * A Collection of Cheat Sheets: <https://github.com/gdiminneapolis/cheat-sheet-collection>
 * Starting up Projects: <https://github.com/gdiminneapolis/gdi-starting-up>
+
+
+-----
+
+Check slack integration
