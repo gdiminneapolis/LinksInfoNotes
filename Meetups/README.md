@@ -2,6 +2,14 @@
 
 <!-- (Hint for developers: add meetups in reverse chronological order, like a blog.) -->
 
+## July 6, 2017
+
+### Speakers:
+
+* Allyson Wehrs - Intro to Visual Code editor
+* Rachel Walwood - (need the title of the talk)
+* Heather Lutz - Teaching Yourself to Code
+
 ## June 1, 2017 - First Meetup At Buzzfeed
 
 ### Speakers:
