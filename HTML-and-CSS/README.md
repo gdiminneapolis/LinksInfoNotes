@@ -10,6 +10,10 @@ some other classes on allied technologies.
 * [Building with Bootstrap](BuildingWithBootstrap.md)
 * [Stylin' with Sass](StylinWithSass.md)
 
+## Books
+
+* Jon Ducket, _HTML &amp; CSS: design and build web sites_ [[website](http://www.htmlandcssbook.com/)] This is the most beautiful book about learning HTML and CSS, the building blocks of web pages. The presentation, style, and content are amazing.
+
 ## Links
 
 ### HTML and CSS
