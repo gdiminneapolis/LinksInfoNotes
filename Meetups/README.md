@@ -7,7 +7,7 @@
 ### Speakers:
 
 * Allyson Wehrs - Intro to Visual Code editor
-* Rachel Walwood - (need the title of the talk)
+* Rachel Walwood - [The World of Software](The%20World%20of%20Software%20presentation.pdf)
 * Heather Lutz - Teaching Yourself to Code
 
 ## June 1, 2017 - First Meetup At Buzzfeed
