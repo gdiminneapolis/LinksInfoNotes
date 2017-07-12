@@ -106,6 +106,18 @@ from
   I've been helping in. A very visual approach, using full-colour photographs
   to explain the two declarative languages.
 
+## PHP Specific
+
+* [**Head-First PHP and MySQL**](http://shop.oreilly.com/product/9780596006303.do)
+
+  Published by O'Reilly, their "Head-First" imprint is intended for
+  people just starting out learning to program. *Head-First PHP and
+  MySQL* is an entertaining and informative dive into one of the most
+  popular server-side programming languages. After learning HTML, CSS,
+  and some JavaScript, PHP is a great place to jump into writing
+  dynamic web sites that interact with your own data. WordPress,
+  running on 28% of the web (and still growing) is written in PHP.
+
 ## Ruby-specific
 
 * [**Eloquent Ruby**](https://www.goodreads.com/book/show/9364729-eloquent-ruby)
