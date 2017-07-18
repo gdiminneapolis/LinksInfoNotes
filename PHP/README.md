@@ -11,12 +11,14 @@
   * Slides: <http://hurrendor.com/gdi-php-mysql/class1.html>
 
 * Day 2
-  * Slides:
-  * Project files:
+  * Slides: <https://hurrendor.github.io/gdi-featured-php-mysql/class2.html>
+  * Project files: <https://github.com/hurrendor/gdi-featured-php-mysql/blob/gh-pages/class2-codesample.zip>
 
 * Day 3
-  * Slides:
+  * Slides: <https://hurrendor.github.io/gdi-featured-php-mysql/class3.html>
   * Project files:
+    * Excerises: <https://github.com/hurrendor/gdi-featured-php-mysql/blob/gh-pages/class3-exercises.zip>
+    * Completed: <https://github.com/hurrendor/gdi-featured-php-mysql/blob/gh-pages/class3-complete.zip>
 
 ## Local PHP Development Environment(s)
 
@@ -38,7 +40,7 @@
 
 The main website for php, <https://www.php.net>, is one of the better
 documented systems, because it contains **lots** of extra commentary
-from decades of PHP developers experience. While the language syntax
+from decades of PHP developers' experience. While the language syntax
 is fairly small, the libraries that come with PHP are huge. Keep the
 site bookmarked and in a browser window while you're developing.
 
