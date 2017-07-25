@@ -220,7 +220,8 @@ products. Another way these are referred to are 'has many' and
 * a product *belongs to* a company
 
 ![Diagram of foreign key concept](http://guides.rubyonrails.org/images/belongs_to.png "Diagram of Foreign Key Usage")
-*(This is from Rails, but the concept is identical,)*
+
+*(This is from Rails, but the concept is identical)*
 
 There are lots of other kinds of relationships, but this is the most
 common use.
