@@ -39,7 +39,7 @@ PHP has two MySQL libraries:
 - `mysql` is an old, outdated, and vulnerable interface. **DO NOT USE
   IT**
 - `mysqli` is "MySql, Improved" and is by far the preferred
-  interface. **Make sure all your database methods used `mysqli`.
+  interface. **Make sure all your database methods use mysqli**.
 
 (Sometimes, depending on which editor you use, you may get the old,
 non-improved, methods offered up to you. Be careful when you select a
@@ -123,7 +123,7 @@ In the exercises, we used 2 separate functions to make data safe:
    quotes and single quotes to HTML entities. The table for the `flag`
    paramter lists more.
 
-   The last paramter we used was 'UTF-8'. This is a character set
+   The last parameter we used was 'UTF-8'. This is a character set
    representation. You'll almost always want to use that, along with
    setting your web pages to display in UTF-8 using the `meta` tag in
    the HTML head.
@@ -148,7 +148,7 @@ debug.
 
 ### Blank page syndrome
 
-When you run a PHP script from you browser and get back a completely
+When you run a PHP script from your browser and get back a completely
 blank page, it's frustrating and disconcerting. There are two likely
 causes.
 
@@ -210,15 +210,17 @@ In class 3, we built 2 tables in the database, `product` and
 `company`, and related them together with a **foreign key**. This let
 us give just the ID of the company in a row of the product table
 without needing to repeat the name of the company in each row.
-
-(The big word for this is 'database normalization'.)
+(The big name for this is *"database normalization"*.)
 
 This creates a one-to-many relationship: one company can have many
 products. Another way these are referred to are 'has many' and
 'belongs to'.
 
-* a company has many products
-* a product belons to a company
+* a company *has many* products
+* a product *belongs to* a company
+
+![Diagram of foreign key concept](http://guides.rubyonrails.org/images/belongs_to.png "Diagram of Foreign Key Usage")
+*(This is from Rails, but the concept is identical,)*
 
 There are lots of other kinds of relationships, but this is the most
 common use.
@@ -234,7 +236,7 @@ When we created the foreign key index, we also told it to
 "CASCADE". This means that if the Company row is deleted, all product
 rows referring to that company will also be deleted. This is important
 so there aren't any product entries that point to a non-existent
-company. (The big word for this is "referential integrity".)
+company. (The big name for this is *"referential integrity"*.)
 
 There is *so* much to learn about relational tables, but you've got
 the basics for now. You might
