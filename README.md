@@ -1,5 +1,7 @@
 # Links, Information and Notes from GDI Minneapolis Classes and Slack channels
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 We've been using our Slack team channels to share information, links,
 and other interesting things during our classes, and to share other
 things any time.
@@ -38,6 +40,8 @@ this venture. There are many ways you can do that:
    corrections, deletions, and create
    a
    [Pull Request](https://github.com/gdiminneapolis/LinksInfoNotes/pulls)
+   
+   **Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
 4. Write an article in the
    project
