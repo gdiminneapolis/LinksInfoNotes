@@ -1,6 +1,7 @@
 # Links, Information and Notes from GDI Minneapolis Classes and Slack channels
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![CC-BY-NC-SA License](https://img.shields.io/badge/license-CC--BY--NC--SA-blue.svg)](LICENSE.md)
 
 We've been using our Slack team channels to share information, links,
 and other interesting things during our classes, and to share other
