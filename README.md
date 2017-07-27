@@ -37,22 +37,26 @@ this venture. There are many ways you can do that:
 2. Ask a question, engage in a discussion, suggest a link or category
    or some other change in
    the
-   [issues](https://github.com/gdiminneapolis/LinksInfoNotes/issues)
+   [issues]
    section of the repo.
 
 3. Fork the repo, create a branch and make changes, additions,
    corrections, deletions, and create
    a
-   [Pull Request](https://github.com/gdiminneapolis/LinksInfoNotes/pulls)
+   [pull request]
 
    **Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
 4. Write an article in the
    project
-   [wiki](https://github.com/gdiminneapolis/LinksInfoNotes/wiki)
+   [wiki]
 
 5. Proof-read the information, test/check links for validity, point
-   out problems.
+   out problems. File an [issue] or submit a [pull request]
+
+[issue]: https://github.com/gdiminneapolis/LinksInfoNotes/issues "File an Issue"
+[pull request]: https://github.com/gdiminneapolis/LinksInfoNotes/pulls "Pull requests"
+[wiki]: https://github.com/gdiminneapolis/LinksInfoNotes/wiki "Wiki"
 
 ## License
 
