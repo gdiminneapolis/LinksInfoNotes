@@ -1,10 +1,10 @@
 # Links, Information and Notes from GDI Minneapolis Classes and Slack channels
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
-
 ![Don't Be Shy!](https://img.shields.io/badge/GDI-Don't%20Be%20Shy!-f95a61.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![CC-BY-NC-SA License](https://img.shields.io/badge/license-CC--BY--NC--SA-blue.svg)](LICENSE.md)
 [![Code of Conducxt](https://img.shields.io/badge/Code%20of-Conduct-ff69b4.svg)](ContributorCovenant.md)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+
 
 We've been using our Slack team channels to share information, links,
 and other interesting things during our classes, and to share other
