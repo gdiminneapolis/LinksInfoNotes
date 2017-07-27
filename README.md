@@ -2,6 +2,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![CC-BY-NC-SA License](https://img.shields.io/badge/license-CC--BY--NC--SA-blue.svg)](LICENSE.md)
+[![Code of Conducxt](https://img.shields.io/badge/Code%20of-Conduct-ff69b4.svg)](ContributorCovenant.md)
 
 We've been using our Slack team channels to share information, links,
 and other interesting things during our classes, and to share other
