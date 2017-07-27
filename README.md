@@ -71,7 +71,9 @@ These might eventually be consolidated into this repo, but for now:
 * A Collection of Cheat Sheets: <https://github.com/gdiminneapolis/cheat-sheet-collection>
 * Starting up Projects: <https://github.com/gdiminneapolis/gdi-starting-up>
 
+# CONTRIBUTORS
 
------
+![tamouse](https://avatars3.githubusercontent.com/u/363583?v=4&s=50) Tamara Temple <https://github.com/tamouse> :book:
 
-Check slack integration
+![walwoodr](https://avatars2.githubusercontent.com/u/15892669?v=4&s=50) Rachel Walwood <https://github.com/walwoodr> :loudspeaker:
+
