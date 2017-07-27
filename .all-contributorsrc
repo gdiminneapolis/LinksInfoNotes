@@ -1,0 +1,31 @@
+{
+  "projectName": "LinksInfoNotes",
+  "projectOwner": "gdiminneapolis",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tamouse",
+      "name": "Tamara Temple",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/363583?v=4",
+      "profile": "http://tamouse.org",
+      "contributions": [
+        "doc",
+        "test",
+        "code"
+      ]
+    },
+    {
+      "login": "walwoodr",
+      "name": "Rachel Walwood",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/15892669?v=4",
+      "profile": "http://rachelwalwood.com",
+      "contributions": [
+        "talk"
+      ]
+    }
+  ]
+}

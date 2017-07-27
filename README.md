@@ -1,4 +1,5 @@
 # Links, Information and Notes from GDI Minneapolis Classes and Slack channels
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![CC-BY-NC-SA License](https://img.shields.io/badge/license-CC--BY--NC--SA-blue.svg)](LICENSE.md)
@@ -42,7 +43,7 @@ this venture. There are many ways you can do that:
    corrections, deletions, and create
    a
    [Pull Request](https://github.com/gdiminneapolis/LinksInfoNotes/pulls)
-   
+
    **Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
 4. Write an article in the
@@ -73,7 +74,13 @@ These might eventually be consolidated into this repo, but for now:
 
 # CONTRIBUTORS
 
-![tamouse](https://avatars3.githubusercontent.com/u/363583?v=4&s=50) Tamara Temple <https://github.com/tamouse> :book:
+Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
-![walwoodr](https://avatars2.githubusercontent.com/u/15892669?v=4&s=50) Rachel Walwood <https://github.com/walwoodr> :loudspeaker:
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+| [<img src="https://avatars3.githubusercontent.com/u/363583?v=4" width="100px;"/><br /><sub>Tamara Temple</sub>](http://tamouse.org)<br />[📖](https://github.com/gdiminneapolis/LinksInfoNotes/commits?author=tamouse "Documentation") [⚠️](https://github.com/gdiminneapolis/LinksInfoNotes/commits?author=tamouse "Tests") [💻](https://github.com/gdiminneapolis/LinksInfoNotes/commits?author=tamouse "Code") | [<img src="https://avatars1.githubusercontent.com/u/15892669?v=4" width="100px;"/><br /><sub>Rachel Walwood</sub>](http://rachelwalwood.com)<br />[📢](#talk-walwoodr "Talks") |
+| :---: | :---: |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
+This project follows
+the [all-contributors](https://github.com/kentcdodds/all-contributors)
+specification. Contributions of any kind welcome!

@@ -1,0 +1,16 @@
+{
+  "name": "LinksInfoNotes",
+  "version": "1.0.0",
+  "description": "Collection of links, information, and notes from GDI classes and Slack conversations",
+  "main": "README.md",
+  "repository": "git@github.com:gdiminneapolis/LinksInfoNotes.git",
+  "author": "Tamara Temple <tamouse@gmail.com>",
+  "license": "CC-BY-NA-SA",
+  "dependencies": {
+    "all-contributors-cli": "^4.3.0"
+  },
+  "scripts": {
+    "add": "all-contributors add",
+    "gen": "all-contributors generate"
+  }
+}
