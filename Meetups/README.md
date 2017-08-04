@@ -7,7 +7,7 @@
 ### Speakers:
 
 * Abbie
-  Fitzgerals -
+  Fitzgerald -
   [All About Style Guides](AFitzgerald-GDI-style-guides.pdf) <small>(pdf)</small>
 * Sarah Rose Battles - Unit Testing with SpecFlow
   * Slides: [Intro to SpecFlow](IntroToSpecflow.key) <small>[keynote
