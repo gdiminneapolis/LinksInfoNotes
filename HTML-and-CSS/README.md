@@ -48,6 +48,8 @@ Two great places for reading:
 
 * [w3schools CSS Box Model tutorial](https://www.w3schools.com/css/css_boxmodel.asp)
 
+* [normalize.css](https://github.com/necolas/normalize.css) - make your HTML behave the same on all browsers. This is sometimes necessary because browsers have different ideas how elements should look by default.
+
 ### CSS Flexbox
 
 * A Complete Guide to
