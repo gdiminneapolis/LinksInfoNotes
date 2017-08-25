@@ -7,7 +7,8 @@ some other classes on allied technologies.
 * HTML &amp; CSS 201: Basics of CSS Styles slides: <http://slides.com/tessak22/html-css-201#/>
 * HTML &amp; CSS 301: Practical Website Skills slides: <https://github.com/tessak22/HTML-CSS-301-Practical-Website-Skills>
 
-* [Intro to HTML &amp; CSS](https://drive.google.com/drive/folders/0BxO-Hb17x-SGa2xtTzAwNDJJSGM?usp=sharing)
+* [Intro to HTML &amp; CSS](https://drive.google.com/drive/folders/0BxO-Hb17x-SGa2xtTzAwNDJJSGM?usp=sharing) with Sam Oyen
+  - [Class Files](class_files.zip) (download ZIP file)
 
 * [Building with Bootstrap](BuildingWithBootstrap.md)
 * [Stylin' with Sass](StylinWithSass.md)
