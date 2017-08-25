@@ -1,11 +1,13 @@
 # HTML and CSS Notes, Info, and Links
 
-GDI Minneapolis teaches 3 classes on HTML and CSS directly, as well as
+GDI Minneapolis teaches classes on HTML and CSS directly, as well as
 some other classes on allied technologies.
 
 * HTML &amp; CSS 101: Basics of HTML Elements slides: <http://slides.com/tessak22/html-css-101#/>
 * HTML &amp; CSS 201: Basics of CSS Styles slides: <http://slides.com/tessak22/html-css-201#/>
 * HTML &amp; CSS 301: Practical Website Skills slides: <https://github.com/tessak22/HTML-CSS-301-Practical-Website-Skills>
+
+* [Intro to HTML &amp; CSS](https://drive.google.com/drive/folders/0BxO-Hb17x-SGa2xtTzAwNDJJSGM?usp=sharing)
 
 * [Building with Bootstrap](BuildingWithBootstrap.md)
 * [Stylin' with Sass](StylinWithSass.md)
