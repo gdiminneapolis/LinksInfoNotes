@@ -20,10 +20,19 @@ some other classes on allied technologies.
 
 ## Links
 
-Two great places for reading:
+Great places for reading:
 
 * [w3schools](https://www.w3schools.com/) - lots of tutorials on web technology
 * [Mozilla Development Network (MDN)](https://developer.mozilla.org/en-US/) - development info and tutorials by the people that create the Firefox browser and other great tools
+* [CSS Tricks](https://css-tricks.com/) - blog with lots of great tutorials, examples, articles
+* [Smashing Magazine](https://www.smashingmagazine.com/) - another site with articles, examples, instruction - geared towards front-end developers interested in design
+* [A List Apart](https://alistapart.com/) - super site for learning about web site development, web site design, with great, thoughtful explanations and discussion. Also publish awesome books at [A Book Apart](https://abookapart.com/)
+
+Sandboxes to try out HTML &amp; CSS:
+
+* [codepen.io](https://codepen.io) - edit HTML, CSS, and JavaScript and see the effects immediately
+* [jsfiddle](https://jsfiddle.net/) - similar to codepen
+* [jsbin](http://jsbin.com/) - yet another sandbox
 
 ### HTML and CSS
 
