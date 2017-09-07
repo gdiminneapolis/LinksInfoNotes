@@ -8,6 +8,20 @@ Sign up here: <http://tinyurl.com/gdimplstalks>
 
 <!-- (Hint for developers: add meetups in reverse chronological order, like a blog.) -->
 
+## September 7, 2017
+
+### Speakers:
+
+* Shalanah Dawson: "Photoshop to Web: Adventures in Pixel Perfect
+  Design" [slides link](https://docs.google.com/presentation/d/17fzi6BjaAOcL0HNfKWGuCCqvgQcd5Z-ySynhAXdsgHI/edit?usp=sharing)
+
+* Alana McKinney: "Speaking Up: creating your own learning
+  environment" [slides link](https://docs.google.com/presentation/d/1BNihDzE0i7peeoXjbfXuTIgSYv2SwQkJPbqzXWfHMAU/edit?usp=sharing)
+
+* Janessa White: "Web Accessibility: Awesome and
+  Needed" [slides link](# "tba")
+
+
 ## August 3, 2017
 
 ### Speakers:
