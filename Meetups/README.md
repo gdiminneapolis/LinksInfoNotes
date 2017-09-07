@@ -13,7 +13,7 @@ Sign up here: <http://tinyurl.com/gdimplstalks>
 ### Speakers:
 
 * Shalanah Dawson: "Photoshop to Web: Adventures in Pixel Perfect
-  Design" [slides link](https://docs.google.com/presentation/d/17fzi6BjaAOcL0HNfKWGuCCqvgQcd5Z-ySynhAXdsgHI/edit?usp=sharing)
+  Text" [slides link](https://docs.google.com/presentation/d/17fzi6BjaAOcL0HNfKWGuCCqvgQcd5Z-ySynhAXdsgHI/edit?usp=sharing)
 
 * Alana McKinney: "Speaking Up: creating your own learning
   environment" [slides link](https://docs.google.com/presentation/d/1BNihDzE0i7peeoXjbfXuTIgSYv2SwQkJPbqzXWfHMAU/edit?usp=sharing)
