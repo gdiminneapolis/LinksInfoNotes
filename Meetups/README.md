@@ -19,7 +19,7 @@ Sign up here: <http://tinyurl.com/gdimplstalks>
   environment" [slides link](https://docs.google.com/presentation/d/1BNihDzE0i7peeoXjbfXuTIgSYv2SwQkJPbqzXWfHMAU/edit?usp=sharing)
 
 * Janessa White: "Web Accessibility: Awesome and
-  Needed" [slides link](# "tba")
+  Needed" [slides link](https://docs.google.com/presentation/d/11ajq_qCZS7nNhwT1YRrcXSSt-nHWffDHNvQBGQlBlGk/edit?usp=sharing)
 
 
 ## August 3, 2017
