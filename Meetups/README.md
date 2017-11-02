@@ -8,6 +8,18 @@ Sign up here: <http://tinyurl.com/gdimplstalks>
 
 <!-- (Hint for developers: add meetups in reverse chronological order, like a blog.) -->
 
+## November 2, 2017
+
+### Speakers:
+
+* Amanda Kirschner: "Why I love Trello"
+
+* Kris Erdahl: "What is Heroku (and why should I use it?)"
+
+* Tamara Temple: "Some personal learning strategies"
+
+* Amy Gebhardt: "Chapter Leadership Opportunities"
+
 ## September 7, 2017
 
 ### Speakers:
