@@ -12,13 +12,26 @@ Sign up here: <http://tinyurl.com/gdimplstalks>
 
 ### Speakers:
 
-* Amanda Kirschner: "Why I love Trello"
+* Amanda Kirschner: ["Why I love Trello"](https://docs.google.com/presentation/d/1tr7ncOPifCfGgbIbhosG8UXeTpXEV1lqg7qW55GzZDA/edit?usp=sharing)
 
 * Kris Erdahl: "What is Heroku (and why should I use it?)"
 
-* Tamara Temple: "Some personal learning strategies"
+  Useful Links:
+
+  * Heroku Dev Center: <https://devcenter.heroku.com/>
+
+  * Kris’ Playground Heroku app: <https://nodechattyapp.herokuapp.com/>
+
+  * Postman app download: <https://www.getpostman.com>
+
+  * Robo 3T app download: <https://robomongo.org/>
+
+  * Udemy Node.js course taught by Andrew Mead: <https://www.udemy.com/the-complete-nodejs-developer-course-2/>
 
 * Amy Gebhardt: "Chapter Leadership Opportunities"
+
+  If you're interested in learning more, contact Amy through slack or
+  email at  *amy AT gdiminneapolis DOT com*.
 
 ## September 7, 2017
 
