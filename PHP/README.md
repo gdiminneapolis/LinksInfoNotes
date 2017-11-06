@@ -298,7 +298,7 @@ site bookmarked and in a browser window while you're developing.
 * [w3schools PHP Tutorial](https://www.w3schools.com/php/default.asp)
 * [w3schools SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 * [Learn PHP the Hard Way](https://phpthehardway.wordpress.com/)
-
+* [Object-Oriented PHP tutorial series](http://phpenthusiast.com/object-oriented-php-tutorials)
 
 ## MORE HELP WANTED!!
 

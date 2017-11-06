@@ -100,6 +100,13 @@ from
 
 ## HTML and CSS Specific
 
+* [The New CSS Layout](https://abookapart.com/products/the-new-css-layout)
+  by [Rachel Andrew](https://twitter.com/rachelandrew/).
+
+  This new book by CSS3 Grid contributor Rachel Andrew is the current
+  best explanation and introduction to the new layout systems in CSS3,
+  Grid and Flexbox. A *must* read!
+
 * [**HTML and CSS Design and Build Websites**](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189?ie=UTF8&*Version*=1&*entries*=0) by Jon Duckett.
 
   This book has been recommended by several people in the [GDI] courses

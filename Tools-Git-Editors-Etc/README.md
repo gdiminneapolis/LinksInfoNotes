@@ -36,6 +36,23 @@ time learning.
 * For other things like this, try Googling "Best Atom Packages" or
   "Best Sublime Text Packages".
 
+### Sublime Text
+
+#### Viewing a web page in a browser from Sublime Text
+
+Here are some links, shared by Alana (Chelsea McKinney) in
+#coding-questions on Sept 19, 2017:
+
+* https://www.michaelcrump.net/getting-sublime-3-to-launch-your-html-page-in-a-browser-with-a-key-combo/
+* https://packagecontrol.io/packages/View%20In%20Browser
+* https://github.com/SublimeTextIssues/Core/issues/1714
+
+## JetBrains - WebStorm, PhpStorm, RubyMine, etc
+
+* [Shared in #coding-questions by Susie Douang (@suz) Oct 9, 2017](https://gdimpls.slack.com/archives/C10RXJUQY/p1507577647000040)
+  Anyone else @here use Webstorm? I always forget what the file status colors mean:
+  [File status color meanings](http://www.jetbrains.com/help/phpstorm/file-status-highlights.html)
+
 ## Command Line
 
 Working on the command line is essential for some development, but not
@@ -45,3 +62,6 @@ clicking and dragging a mouse.
 
 * [Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial)
   A good beginning tutorial into using the command line.
+
+* [Git-Tower Command Line Cheatsheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
+  [Shared by Amanda Kirchner @geeky-brewster in #coding-questions on Oct 26, 2017](https://gdimpls.slack.com/archives/C10RXJUQY/p1508181109000078)
