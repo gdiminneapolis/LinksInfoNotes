@@ -8,13 +8,21 @@ Sign up here: <http://tinyurl.com/gdimplstalks>
 
 <!-- (Hint for developers: add meetups in reverse chronological order, like a blog.) -->
 
+## December 7, 2017
+
+### Speaker:
+
+* Brandy Churchill: ["Agile Practice"](./AgilePractice-BrandyChurchill-2017-12-07/AgileOverviewSlides_BChurchill.pdf)
+  <small>[[Powerpoint:](./AgileOverview-BrandyChurchill-2017-12-07/AgileOverviewSlides.pptx)]</small>
+
 ## November 2, 2017
 
 ### Speakers:
 
 * Amanda Kirschner: ["Why I love Trello"](https://docs.google.com/presentation/d/1tr7ncOPifCfGgbIbhosG8UXeTpXEV1lqg7qW55GzZDA/edit?usp=sharing)
 
-* Kris Erdahl: "What is Heroku (and why should I use it?)"
+* Kris Erdahl: "What is Heroku (and why should I use it?)" [Live
+  coding session!!]
 
   Useful Links:
 
@@ -53,11 +61,11 @@ Sign up here: <http://tinyurl.com/gdimplstalks>
 
 * Abbie
   Fitzgerald -
-  [All About Style Guides](AFitzgerald-GDI-style-guides.pdf) <small>(pdf)</small>
+  [All About Style Guides](./IntroToStyleGuids-AbbieFitzgerald-2017-08-03/AFitzgerald-GDI-style-guides.pdf) <small>(pdf)</small>
 * Sarah Rose Battles - Unit Testing with SpecFlow
-  * Slides: [Intro to SpecFlow](IntroToSpecflow.key) <small>keynote
+  * Slides: [Intro to SpecFlow](./IntroToSpecflow-SarahRoseBattles-2017-08-03/IntroToSpecflow.key) <small>keynote
     presentation</small> &bullet;
-    <small>[pdf doc](IntroToSpecflow.pdf)</small> &bullet; <small>[html](IntroToSpecflow/index.html)
+    <small>[pdf doc](IntroToSpecflow-SarahRoseBattles-2017-08-03/IntroToSpecflow.pdf)</small> &bullet; <small>[html](IntroToSpecflow/index.html)
   * Project repository: <http://www.jeffgaroutte.net/Repo/Garoutte.DateMath.git>
 * Susie Duong - [Why I Hate Talking about Tech-Related Thingamjiggies &amp; How to Overcome It](Why-I-Hate-Talking-About-Tech.pptx)
 
