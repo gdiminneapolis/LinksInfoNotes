@@ -12,7 +12,9 @@ Sign up here: <http://tinyurl.com/gdimplstalks>
 
 ### Speaker:
 
-* Brandy Churchill: ["Agile Practice"](./AgilePractice-BrandyChurchill-2017-12-07/AgileOverviewSlides_BChurchill.pdf)
+
+
+* Brandy Churchill: ["Agile Practice"](./AgileOverview-BrandyChurchill-2017-12-07/AgileOverviewSlides_BChurchill.pdf)
   <small>[[Powerpoint:](./AgileOverview-BrandyChurchill-2017-12-07/AgileOverviewSlides.pptx)]</small>
 
 ## November 2, 2017
