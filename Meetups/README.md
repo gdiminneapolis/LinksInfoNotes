@@ -53,8 +53,7 @@ Sign up here: <http://tinyurl.com/gdimplstalks>
 * Alana McKinney: "Speaking Up: creating your own learning
   environment" [slides link](https://docs.google.com/presentation/d/1BNihDzE0i7peeoXjbfXuTIgSYv2SwQkJPbqzXWfHMAU/edit?usp=sharing)
 
-* Janessa White: "Web Accessibility: Awesome and
-  Needed" [slides link](https://docs.google.com/presentation/d/11ajq_qCZS7nNhwT1YRrcXSSt-nHWffDHNvQBGQlBlGk/edit?usp=sharing)
+* Janessa White: "Teammates, not Frenemies" [slides link](https://docs.google.com/presentation/d/11ajq_qCZS7nNhwT1YRrcXSSt-nHWffDHNvQBGQlBlGk/edit?usp=sharing)
 
 
 ## August 3, 2017
