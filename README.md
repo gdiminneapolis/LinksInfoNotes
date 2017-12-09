@@ -3,7 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![CC-BY-NC-SA License](https://img.shields.io/badge/license-CC--BY--NC--SA-blue.svg)](LICENSE.md)
 [![Code of Conducxt](https://img.shields.io/badge/Code%20of-Conduct-ff69b4.svg)](ContributorCovenant.md)
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors)
 
 
 We've been using our Slack team channels to share information, links,
@@ -82,8 +82,9 @@ These might eventually be consolidated into this repo, but for now:
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars3.githubusercontent.com/u/363583?v=4" width="100px;"/><br /><sub>Tamara Temple</sub>](http://tamouse.org)<br />[📖](https://github.com/gdiminneapolis/LinksInfoNotes/commits?author=tamouse "Documentation") [⚠️](https://github.com/gdiminneapolis/LinksInfoNotes/commits?author=tamouse "Tests") [💻](https://github.com/gdiminneapolis/LinksInfoNotes/commits?author=tamouse "Code") | [<img src="https://avatars1.githubusercontent.com/u/15892669?v=4" width="100px;"/><br /><sub>Rachel Walwood</sub>](http://rachelwalwood.com)<br />[📢](#talk-walwoodr "Talks") |
-| :---: | :---: |
+| [<img src="https://avatars3.githubusercontent.com/u/363583?v=4" width="100px;"/><br /><sub>Tamara Temple</sub>](http://tamouse.org)<br />[📖](https://github.com/gdiminneapolis/LinksInfoNotes/commits?author=tamouse "Documentation") [⚠️](https://github.com/gdiminneapolis/LinksInfoNotes/commits?author=tamouse "Tests") [💻](https://github.com/gdiminneapolis/LinksInfoNotes/commits?author=tamouse "Code") | [<img src="https://avatars1.githubusercontent.com/u/15892669?v=4" width="100px;"/><br /><sub>Rachel Walwood</sub>](http://rachelwalwood.com)<br />[📢](#talk-walwoodr "Talks") | [<img src="https://avatars3.githubusercontent.com/u/22696619?v=4" width="100px;"/><br /><sub>Brandy</sub>](https://github.com/churchbcp)<br />[🐛](https://github.com/gdiminneapolis/LinksInfoNotes/issues?q=author%3Achurchbcp "Bug reports") [📢](#talk-churchbcp "Talks") | [<img src="https://avatars1.githubusercontent.com/u/25570110?v=4" width="100px;"/><br /><sub>Amanda Kirchner</sub>](https://github.com/geekyBrewster)<br />[📢](#talk-geekyBrewster "Talks") | [<img src="https://avatars1.githubusercontent.com/u/25726422?v=4" width="100px;"/><br /><sub>Kris Erdahl</sub>](https://github.com/KrisErdahl)<br />[📢](#talk-KrisErdahl "Talks") | [<img src="https://avatars0.githubusercontent.com/u/12141607?v=4" width="100px;"/><br /><sub>agebhardt</sub>](https://github.com/agebhardt)<br />[📢](#talk-agebhardt "Talks") | [<img src="https://avatars3.githubusercontent.com/u/14183660?v=4" width="100px;"/><br /><sub>Shalanah Dawson</sub>](http://shalanah.com)<br />[📢](#talk-shalanah "Talks") |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [<img src="https://avatars2.githubusercontent.com/u/20973273?v=4" width="100px;"/><br /><sub>Jenessa White</sub>](http://jenessawhite.com)<br />[📢](#talk-jenessawhite "Talks") | [<img src="https://avatars2.githubusercontent.com/u/12348696?v=4" width="100px;"/><br /><sub>Allyson Wehrs</sub>](https://github.com/strvenxy)<br />[📢](#talk-strvenxy "Talks") |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows
