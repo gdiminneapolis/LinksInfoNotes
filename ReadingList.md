@@ -7,7 +7,7 @@ The list below is directly lifted
 from
 [Tamara](https://github.com/tamouse)'s
 [Software as a Craft blog](https://swaac.tamouse.org)'s
-[learning page](https://swaac.tamouse.org/pages/learning/). She's the
+[learning page](https://tamouse.github.io/swaac/pages/learning/). She's the
 "I" below.
 
 
