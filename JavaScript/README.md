@@ -40,6 +40,8 @@ want to help someone else.
 
 ## Tools, etc
 
+* [Get Started with Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/) - an alternative to using a lot of `console.log` statements when you're trying to figure out why your code isn't doing what you expect, or for just exploring what's happening. Don't stop using `console.log`, add this to your toolbox.
+
 * [Interactive Regular Expression Checker](https://regexly.chipto.io/)
 
   This is an interesting site: it will show you what sorts of things
