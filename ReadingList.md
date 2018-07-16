@@ -10,6 +10,9 @@ from
 [learning page](https://tamouse.github.io/swaac/pages/learning/). She's the
 "I" below.
 
+It has since been updated with various links shared on the Slack channel (as of 7/16/2018). These descriptions where written by Kim T.
+
+## General Programming
 
 * [**Think Like a Programmer: An Introduction to Creative Problem Solving**](https://www.goodreads.com/book/show/13590009-think-like-a-programmer)
   by V. Anton Spraul.
@@ -63,9 +66,13 @@ from
   2. Make it pretty
   3. Make it fast
 
-  In that order
+  In that order.
 
-## JavaScript-specific
+* [**System Design Heuristics**](https://leanpub.com/systemdesignheuristics)
+
+A pay what you want (within reason) book that is being revised on an ongoing basis. It covers a number of design principles.
+
+## JavaScript
 
 * [**JavaScript: The Good Parts**](https://www.goodreads.com/book/show/2998152-javascript)
   by David Crockford.
@@ -98,7 +105,13 @@ from
   that's just a quibble at this point. Read this before you strike out
   on creating a client-based JS application; you won't regret it.
 
-## HTML and CSS Specific
+### React
+
+* [**React Developer Roadmap**](https://github.com/adam-golab/react-developer-roadmap)
+
+A chart that demonstrates the paths you can take and the libraries you might want to learn in order to become a React developer. It should help give you a rough idea of the landscape as it is currently, since it is frequently being updated.
+
+## HTML and CSS
 
 * [The New CSS Layout](https://abookapart.com/products/the-new-css-layout)
   by [Rachel Andrew](https://twitter.com/rachelandrew/).
@@ -113,7 +126,7 @@ from
   I've been helping in. A very visual approach, using full-colour photographs
   to explain the two declarative languages.
 
-## PHP Specific
+## PHP
 
 * [**Head-First PHP and MySQL**](http://shop.oreilly.com/product/9780596006303.do)
 
@@ -125,7 +138,7 @@ from
   dynamic web sites that interact with your own data. WordPress,
   running on 28% of the web (and still growing) is written in PHP.
 
-## Ruby-specific
+## Ruby
 
 * [**Eloquent Ruby**](https://www.goodreads.com/book/show/9364729-eloquent-ruby)
   by Russ Olsen.
@@ -168,7 +181,7 @@ from
   made during software design are crucial to programming, and Sandi is
   one of the very best at explaining things.
 
-## Rails-specific
+## Rails
 
 * [**Rails 4 in Action**](http://www.manning.com/bigg2/) by Ryan Bigg,
   Yehuda Katz, Steve Klabnik, and Rebecca Skinner.
@@ -190,6 +203,17 @@ from
   book and the examples and such are obviously Rails, but the first
   chapter is applicable to learning anything.
 
+* [**RailsConf 2018: Actionable Tactics for Leveling Up Junior Devs by Sumeet Jain**](https://www.youtube.com/watch?v=K0vxOBIyhF0)
+  by Sumeet Jain
+
+  Ain't nobody got time to watch a half hour video, so I'll list the description:
+
+  > We are told that junior developers are a secret weapon, but this alleged
+  > "competitive advantage" is so elusive! Typical advice about evolving talent
+  > can be broad, u-relatable, and impractical. Aren't there any specific and
+  > actionable tactics that teams can employ for leveling up new devs? (Yes,
+  > there are!)
+
 ## Object-Oriented Programming
 
 * [**99 Bottles of OOP**](https://www.sandimetz.com/99bottles) by
@@ -205,3 +229,88 @@ from
   "smells" and making code more easily and economically maintainable
   and sustainable. They take all the buzzwords and unbuzzify them into
   practical, useful methodologies and techniques.
+
+## Web Architecture
+
+* [**Web Architecture 101**](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+  by Jonathan Fulton
+
+  An article that walks you through how modern web apps tend to be hooked up. It explains what the following things do and how they work together:
+
+  * Domain Name Servers (DNS)
+  * Load Balancers
+  * Web Application Servers
+  * Database Servers
+  * Caching Services
+  * Job Queues & Servers
+  * Services
+  * Cloud Storage
+  * Content Delivery Networks (CDN)
+
+## Accessibility
+
+* [**Designing for accessibility is not that hard**](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
+  by Pablo Stanley
+
+  This article describes seven easy-to-implement things you can do that will improve the accessibility of your site. It also talks a bit about the business case for accessibility, and how sites that are designed this way from the ground up tend to see more traffic, be faster and have neater code.
+
+## Education
+
+* [**Welcome to the T in STEM**](http://technologistalk.libsyn.com/welcome-to-the-t-in-stem)
+  by Technologist Talk podcast with Charles Eaton
+
+  A podcast episode that discusses a number of paths into a tech career and how parents can help.
+
+* [**Abby Wambach's graduation speech is my new rally cry**](http://www.chicagotribune.com/lifestyles/stevens/ct-life-stevens-wednesday-abby-wambach-barnard-graduation-0523-story.html)
+  by Heidi Stevens
+
+  The full transcript of Abby's speech can be found [**here**](https://barnard.edu/commencement/archives/2018/abby-wambach-remarks).
+
+## Career Advice
+
+* [**Becoming a 10x Developer]**(https://kateheddleston.com/blog/becoming-a-10x-developer)
+  by Kate Heddleston
+
+  Ten ways to be a better teammate: the kind of teammate that makes everyone around them 10x better, instead of just being 10x better than everyone else.
+
+* [**88 ways to become better end to end software developer**](https://hackernoon.com/88-ways-to-become-better-end-to-end-software-developer-6e0ae2fdb652)
+  by Leo Kyrpychenko
+
+  Note from @tamouse:
+
+  > i thought i'd bring this to folks' attention, not because I'm endorsing
+  > this post, but because it lists a bunch of things that can help expand
+  > one's desirability for hiring options. As most folk here are still at the
+  > early stages of their career, this list is more of a "someday-maybe" sort.
+  > If you aren't doing any of these, it's OKAY -- don't fret!
+  >
+  > Plus, piano players don't play all the keys either :)
+
+## Sexism in the Industry
+
+* [**The Perverse Incentives That Help Incels Thrive in Tech**](https://www.wired.com/story/ellen-pao-the-perverse-incentives-that-help-incels-thrive-in-tech)
+  by Ellen Pao
+
+  The title says it all. Don't read if you're in a good mood. Or if you're in too bad of a mood, for that matter.
+
+* [**Google diversity report: Black women make up only 1.2 percent of its U.S. workforce**](https://www.washingtonpost.com/news/the-switch/wp/2018/06/15/google-diversity-report-black-women-make-up-only-1-2-percent-of-its-u-s-workforce/?noredirect=on&utm_term=.ac9d4aa34af2&wpisrc=nl_most&wpmm=1)
+  by Hamza Shaban
+
+  A breakdown of Google's continued failure to hire a proportional number of women and minorities, particularly those who fall into both categories.
+
+* [**Science Finds Men Understand Body Language, Ignore It**](http://www.notsorryfeminism.com/2018/01/science-finds-men-understand-body-language.html)
+  by Lindsey Weedston
+
+  She discusses Aziz, Louie, and why men are still getting away with the "I didn't realize she didn't want it" excuse long after it's been debunked (see also [**Mythcommunication: It's Not That They Don't Understand, They Just Don't Like the Answer**](https://yesmeansyesblog.wordpress.com/2011/03/21/mythcommunication-its-not-that-they-dont-understand-they-just-dont-like-the-answer/) from 2011 and [**Just Say No? The Use of Conversation Analysis in Developing a Feminist Perspective on Sexual Refusal**](http://journals.sagepub.com/doi/abs/10.1177/0957926599010003002) from 1999).
+
+## Security and Surveillance
+
+* [**How a Hacker Proved Cops Used a Secret Government Phone Tracker to Find Him**](https://www.politico.com/magazine/story/2018/06/03/cyrus-farivar-book-excerpt-stingray-218588)
+  by Cyrus Farivar
+
+  The story of how a hacker was caught by the police, and how he turned it around and figured out how they caught him. Now, thanks to his unlikely discovery, cops' use of Stingrays might finally require a warrant.
+
+* [**Woman says her Amazon device recorded private conversation, sent it out to random contact**](https://www.kiro7.com/www.kiro7.com/news/local/woman-says-her-amazon-device-recorded-private-conversation-sent-it-out-to-random-contact/755507974)
+  by Gary Horcher
+
+  One of her husband's employees was sent all sorts of private conversations and was kind enough to call them and let them know what was going on. Amazon sent an investigator, but hasn't really opened up about why the program misinterpreted what was said in this way and how they're going to prevent this kind of thing in the future.
