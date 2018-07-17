@@ -12,7 +12,7 @@ from
 
 It has since been updated with various links shared on the Slack channel as of 7/16/2018. These descriptions where written by Kim Thompson.
 
-Please follow [**our Instagram <3**](https://www.instagram.com/gdimpls/)
+Please follow [**our Instagram! <3**](https://www.instagram.com/gdimpls/)
 
 ## General Programming
 
@@ -73,7 +73,7 @@ Please follow [**our Instagram <3**](https://www.instagram.com/gdimpls/)
 
 * [**System Design Heuristics**](https://leanpub.com/systemdesignheuristics)
 
-A pay what you want (within reason) book that is being revised on an ongoing basis. It covers a number of design principles.
+  A pay what you want (within reason) book that is being revised on an ongoing basis. It covers a number of design principles.
 
 ## Object-Oriented Programming
 
@@ -170,7 +170,7 @@ A pay what you want (within reason) book that is being revised on an ongoing bas
 
 * [**React Developer Roadmap**](https://github.com/adam-golab/react-developer-roadmap)
 
-A chart that demonstrates the paths you can take and the libraries you might want to learn in order to become a React developer. It should help give you a rough idea of the landscape as it is currently, since it is frequently being updated.
+  A chart that demonstrates the paths you can take and the libraries you might want to learn in order to become a React developer. It should help give you a rough idea of the landscape as it is currently, since it is frequently being updated.
 
 ## HTML and CSS
 
@@ -191,28 +191,28 @@ A chart that demonstrates the paths you can take and the libraries you might wan
 ### Sass
 
 * [**Sass Color Variables That Don't Suck](https://davidwalsh.name/sass-color-variables-dont-suck)
-by Landon Schropp
+  by Landon Schropp
 
-Have you ever tried naming colors based on where they were used and found that you ended up using "hamburger-background" in unrelated places? Have you ever simply named the variables after their colors and ended up with this mess:
+  Have you ever tried naming colors based on where they were used and found that you ended up using "hamburger-background" in unrelated places? Have you ever simply named the variables after their colors and ended up with this mess:
 
-```Sass
-$yellow-green: #b0eb00;
-$red: #b30015;
-$blue: #2a00b3;
-$other-blue: #0077b3;
-$cyan: #00b0b3;
-$transparent-cyan: #24fbff;
-$periwinkle: #8a7dff;
-$light-gray: #a6a6a6;
-$gray: #595959;
-$darkish-gray: #444;
-$dark-gray: #363636;
-$darker-gray: #303030;
-$darkest-gray: #292929;
-$darkester-gray: #111;
-```
+  ```Sass
+  $yellow-green: #b0eb00;
+  $red: #b30015;
+  $blue: #2a00b3;
+  $other-blue: #0077b3;
+  $cyan: #00b0b3;
+  $transparent-cyan: #24fbff;
+  $periwinkle: #8a7dff;
+  $light-gray: #a6a6a6;
+  $gray: #595959;
+  $darkish-gray: #444;
+  $dark-gray: #363636;
+  $darker-gray: #303030;
+  $darkest-gray: #292929;
+  $darkester-gray: #111;
+  ```
 
-This is the article for you.
+  This is the article for you.
 
 ## PHP
 
