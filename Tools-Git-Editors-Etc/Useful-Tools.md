@@ -39,7 +39,7 @@
 
 ## 3D Modeling
 
-* [**Mixamo by Adobe **](https://www.mixamo.com/#/)
+* [**Mixamo by Adobe**](https://www.mixamo.com/#/)
 
 ## CSS Fun
 
