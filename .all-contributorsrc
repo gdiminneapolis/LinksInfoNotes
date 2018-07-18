@@ -90,6 +90,15 @@
       "contributions": [
         "talk"
       ]
+    },
+    {
+      "login": "kimthompson",
+      "name": "Kim Thompson",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3376722?v=4",
+      "profile": "https://github.com/kimthompson",
+      "contributions": [
+        "code"
+      ]
     }
   ]
 }
