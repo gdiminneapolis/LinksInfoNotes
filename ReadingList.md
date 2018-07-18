@@ -10,7 +10,7 @@ from
 [learning page](https://tamouse.github.io/swaac/pages/learning/). She's the
 "I" below.
 
-It has since been updated with various links shared on the Slack channel as of 7/16/2018. These descriptions where written by Kim Thompson.
+It has since been updated with various links shared on the Slack channel as of 7/16/2018. These descriptions were written by Kim Thompson.
 
 Please follow [**our Instagram! <3**](https://www.instagram.com/gdimpls/)
 
