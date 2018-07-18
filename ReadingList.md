@@ -354,7 +354,7 @@ Please follow [**our Instagram! <3**](https://www.instagram.com/gdimpls/)
 
 * [**University of Minnesota Coding Boot Camp**](https://bootcamp.umn.edu/coding/)
 
-  "Become a Web Development in 12 or 24 Weeks". This program would cover:
+  "Become a Web Developer in 12 or 24 Weeks". This program would cover:
 
   * HTML5
   * CSS3
